@@ -62,4 +62,5 @@ Code structure and features may change as I continue learning and improving.
 
 ## 👤 Author
 **Williams Gift Kachi**  
-Android Developer (Junior) | Learning by building
+Android Developer (Junior) | Junior Cyber Security Analyst  
+Building practical apps while developing skills in Android, security, and system awareness.
